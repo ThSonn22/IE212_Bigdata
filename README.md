@@ -1,4 +1,4 @@
-# BÀI THỰC HÀNH MÔN IE212-Big Data
+# BÀI THỰC HÀNH MÔN IE212 - BigData
 
 IE212.Q11 - Công nghệ dữ liệu lớn
 
